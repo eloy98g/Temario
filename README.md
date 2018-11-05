@@ -1,10 +1,10 @@
 # Contenido
 
 ### Segundo
-    * BD
-    * IS
-    * SO
+* BD
+* IS
+* SO
 ### Tercero
-    * Cesi
-    * PW
-    * Redes
+* Cesi
+* PW
+* Redes
