@@ -1,6 +1,6 @@
 # Bases de datos
 
-Ultima actualización: 27-10-18
+Ultima actualización: 10-11-18
 
 ### Falta por añadir:
   * Traducción de esquemas
